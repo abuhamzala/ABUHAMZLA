@@ -1,4 +1,1 @@
-# ABUHAMZLA
-This my first Git Repository.
-<br>
-Author - Sharadha Khapra
+# This is my local Repo
